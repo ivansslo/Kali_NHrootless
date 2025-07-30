@@ -6,7 +6,7 @@
 #             version of apktool. It also checks on system requirments to verify
 #             the script will have no issues working.
 #
-#Contact: sahebwebsolindia538@gmail.com
+#Contact: admin@certveis.site
 VERSION=2020011601
 BASE_URL=https://kali.download/nethunter-images/current/rootfs
 USERNAME=kali
